@@ -23,6 +23,7 @@ class LaravelValidator extends AbstractValidator {
     public function __construct(Factory $validator)
     {
         $this->validator = $validator;
+        $this->errors = new MessageBag();
     }
 
     /**
