@@ -1,5 +1,5 @@
 {
-    "name": "prettus/laravel-validation",
+    "name": "prettus/laravel-validator",
     "description": "Laravel Validation Service",
     "keywords": ["laravel", "validation", "service"],
     "authors": [
