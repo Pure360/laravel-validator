@@ -1,6 +1,7 @@
 <?php namespace Prettus\Validator;
 
 use Illuminate\Validation\Factory;
+use Illuminate\Support\MessageBag;
 
 /**
  * Class LaravelValidator
